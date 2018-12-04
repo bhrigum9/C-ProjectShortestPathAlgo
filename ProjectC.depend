@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1530794850 source:f:\projectc\status.c
+	"status.h"
+
+1530794806 f:\projectc\status.h
+
+1530918048 source:f:\projectc\listtest.c
+	<stdio.h>
+	<string.h>
+	"List.h"
+
+1530916199 f:\projectc\list.h
+	<stdlib.h>
+	"status.h"
+
+1530802354 source:f:\projectc\main.c
+	<stdio.h>
+	"List.h"
+
+1530916217 source:f:\projectc\list.c
+	<stdio.h>
+	"List.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
